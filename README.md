@@ -2,7 +2,7 @@
 
 This project implements predictive text using Java, and it's part of the
 assignments of the [Java programming principles of software design](https://www.coursera.org/learn/java-programming-design-principles/home/welcome) course.
-The code was originally developed in BlueJ, then moved to IntelliJ and readjusted to run there.
+The code was originally developed in BlueJ, then moved to IntelliJ and adjusted to run there.
 <p>
 The fundamental ideal is to generate random text by training character selection on a training text, provided in the /data folder.
 </p>
